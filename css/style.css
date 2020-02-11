@@ -108,6 +108,7 @@ h5 {
 
 body {
     background-image: url(../img/bg3.jpg);
+    background-color: #000000;
     background-repeat: no-repeat, repeat;
     background-size: cover;
 }
